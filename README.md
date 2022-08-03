@@ -4,7 +4,7 @@
 
 When collaborating to release an open tool, how to define objectives and judge when you're done. 
 
-This document draft was produced as part of the [Accelerating AI in Arts and Humanities project](https://github.com/alan-turing-institute/Hut23/issues/1049) and first trialled with [Alto2Txt](https://github.com/Living-with-machines/alto2txt). In AAAH the objective is to join tools within Digital Arts and Humanities and get them ready for open release and distribution. Working for short periods on tools makes scoping challenging and so we developed a framework to assist conversations with external collaborators. 
+This document draft was produced as part of the [Accelerating AI in Arts and Humanities project](https://github.com/alan-turing-institute/Hut23/issues/1049) and first trialled with [Alto2Txt](https://github.com/Living-with-machines/alto2txt), the first draft made by [@LydiaFrance](https://www.github.com/lydiafrance). In AAAH the objective is to join tools within Digital Arts and Humanities and get them ready for open release and distribution. Working for short periods on tools makes scoping challenging and so we developed a framework to assist conversations with external collaborators. 
 
 With further discussions within the REG there is interest in expanding this discussion more broadly about how we define done when working on projects. 
 
@@ -46,7 +46,7 @@ When the minimum level are reached, there is a clear ability to say the collabor
 > Example:
 > After the collaboration ended, it was clear from the final meeting that the targets had been reached and prividing finality to the collaboration. It made it easier for the RSE to decline further code reviews beyond the funding of the project. 
 
-## Improving the Document
+## Improving the Document
 
 It is part of a bigger conversation within the REG and other RSEs about how to effectively apply their expertise and time and better communicate with collaborators. Please add comments, critiques, and corrections! 
 
