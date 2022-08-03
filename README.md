@@ -11,9 +11,10 @@ With further discussions within the REG there is interest in expanding this disc
 ### What is the Defining Done Document?
 
 There are a series of headings including functionality, documentation, open release. Each has a series of levels from 1-5[✳︎] which can be used for 
-1) agreeing scope and sharing a common framework with the collaborators 
-2) 2) agreeing where the RSE should effectively focus their attention 
-3) 3) avoid mission creep or scope changes 4) know when to say goodbye to the project. 
+1) sharing a common framework/language with the collaborators 
+2) agreeing where the RSE should effectively focus their attention 
+3) avoid mission creep or changes to scope 
+4) know when to say goodbye to the project. 
 
 It roughly follows the principals of a Minimum Viable Product, but with openness, impact, and community building at the centre. 
 
