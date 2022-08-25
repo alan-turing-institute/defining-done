@@ -60,7 +60,7 @@ Level 03. **Expected Behaviour**: Test the expected output from given inputs, fo
 
 Level 04. **Coverage**: Prove minimum agreed test coverage of use cases
 
-Level 05. **Future Proof**: Support external contribution by removing brittleness
+Level 05. **Future Proof**: Support external contribution, remove brittleness
 
  
 > The first test is about the first instructions in the documentation. 
