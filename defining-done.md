@@ -60,7 +60,19 @@ Level 03. **Expected Behaviour**: Test the expected output from given inputs, fo
 
 Level 04. **Coverage**: Prove minimum agreed test coverage of use cases
 
-Level 05. **Future Proof**: Support external contribution, remove brittleness
+Level 05. **Future Proof**: Support external contribution, 
+
+
+Level 01. **Continous Integration** Start the automated infrastructure
+
+Level 02. **Defining Positive/Negative Cases** Conversation about what are the expected outcomes/how the tool works
+
+Level 03. **Automated User Tests** End-to-end tests that check expected outcomes from above, black box
+
+Level 04. **Fine-grain Tests/Unit Tests** Focus on critical/pain points, remove brittleness, modularise and reuseable components 
+
+Level 05. **Error Reporting** Focus on negative cases, informative error communication for external collaboration
+
 
  
 > The first test is about the first instructions in the documentation. 
