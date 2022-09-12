@@ -2,13 +2,8 @@
 
 > This document was produced as part of Accelerating AI in the Arts and Humanities (AAAH) produces outputs of professional quality for the research community. 
 > 
-> This means making it easier for your current and future research, accelerating the impact and legacy of the software, expanding communities of practice, and providing a confident codebase for future research. 
->
-> This framework highlights what a maximal 'definition of done' would look like for mutual success to deliver reproducible and credible code for all. 
->
-> It is expected that not all engagements will hit the maximum extents, but rather this is to be negotiated and shaped by the resources available.
-
-
+> This means making it easier for your current and future research, accelerating the impact and legacy of the software, expanding communities of practice, and providing a confident codebase for future research. This framework highlights what a maximal 'definition of done' would look like for mutual success to deliver reproducible and credible code for all. It is expected that not all engagements will hit the maximum extents, but rather this is to be negotiated and shaped by the resources available.
+> 
 >For each project within AAAH determine which "Level" in each of the following categories is a minimum aim for defining done:
 
 
