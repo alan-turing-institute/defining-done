@@ -40,29 +40,6 @@ Level 05. **Walkthrough**: Write walkthroughs/demos (also gifs or videos)
 
 ## Testing
 
-Level 01. **Fix Tests**: Running and trying tests that already exist, improving them
-
-Level 02. **Pseudo Tests**: Identifying where tests need to be added, writing "pseudo-tests"
-
-Level 03. **Write Tests**: Writing unit tests in the code with clear outputs and show coverage
-
-Level 04. **Automate & Continuous Integration (CI)**:  Creating continuous integration tests with Github Actions
-
-Level 05. **End to End Tests**: Simulates real world use.
-
-**OR...**
-
-Level 01. **What's missing**: Pseudo-code if needed, positive and negative test cases
-
-Level 02. **Automate & Continuous Integration (CI)**: Automate tests on commits to the repo
-
-Level 03. **Expected Behaviour**: Test the expected output from given inputs, follow documentation
-
-Level 04. **Coverage**: Prove minimum agreed test coverage of use cases
-
-Level 05. **Future Proof**: Support external contribution, 
-
-
 Level 01. **Continous Integration** Start the automated infrastructure
 
 Level 02. **Defining Positive/Negative Cases** Conversation about what are the expected outcomes/how the tool works
@@ -72,34 +49,6 @@ Level 03. **Automated User Tests** End-to-end tests that check expected outcomes
 Level 04. **Fine-grain Tests/Unit Tests** Focus on critical/pain points, remove brittleness, modularise and reuseable components 
 
 Level 05. **Error Reporting** Focus on negative cases, informative error communication for external collaboration
-
-
- 
-> The first test is about the first instructions in the documentation. 
-> 
-> Input files for the command line, expected outputs. Compare the expected and actual (two files)
-> 
-> tests are about bringing more people into the tool
-> 
-> Give external people confidence it works and gives people the confidence to change
-> 
-> Unit tests are brittle
-> 
-> E2E is user focussed
-> 
-> For a library, the tests are about the components working in isolation
-> 
-> Testing becomes the specification
-> 
-> Start with CI, start with dumy test that passes, and then adding real ones about user cases
-> 
-> Refactoring the code, still the tests are passing
-> 
-> E2E treats it as a black box
-> 
-> Where are the "pain points"/"hotspots" in the code that always break?
-> 
-> Important positive and negative as tests (who is the user and key use cases from the docs)
 
 
 ## Open Release
