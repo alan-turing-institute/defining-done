@@ -52,9 +52,6 @@ Level 05. **Error Reporting** Focus on negative cases, informative error communi
 
 
 ## Open Release
-> Assuming the tool CAN be open
-> 
-> Community and contribution
 
 Level 01. **Find barriers**: Identify minimum criteria that need to be solved before public release e.g. authorship, sensitivity, licensing, publicity, timings
 
@@ -71,7 +68,7 @@ Level 05. **Publisise**: Publish the repo with JOSS, and/or publicly present the
 
 Level 01. **Internal users**: Identify how users already use the tool and its current issues.
 
-Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility eg. [`dependabot`](https://github.com/dependabot/dependabot-core)
+Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility
 
 Level 03. **External users**: Identify how similar external users could use the tool and current barriers
 
