@@ -7,6 +7,19 @@
 >For each project within AAAH determine which "Level" in each of the following categories is a minimum aim for defining done:
 
 
+## Reach and Robustness
+
+Level 01. **Internal users**: Identify how users already use the tool and its current issues.
+
+Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility
+
+Level 03. **External users**: Identify how similar external users could use the tool and current barriers
+
+Level 04. **Generalise**: Identify how the tool could be made general and current barriers to that
+
+Level 05. **Proof of concept**: Demonstrate its use outside its original intended purpose/audience. 
+
+
 ## Functionality
 
 Level 01. **Standard use**: Install the tool, try out a standard use case, write a demo if one doesn't exist
@@ -57,17 +70,4 @@ Level 03. **Release**: Make the repo public.
 Level 04. **Distribute**: Release the repo on PiPY or CRAN or equivalent, include DOI
 
 Level 05. **Publisise**: Publish the repo with JOSS, and/or publicly present the work. 
-
-
-## Reach and Robustness
-
-Level 01. **Internal users**: Identify how users already use the tool and its current issues.
-
-Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility
-
-Level 03. **External users**: Identify how similar external users could use the tool and current barriers
-
-Level 04. **Generalise**: Identify how the tool could be made general and current barriers to that
-
-Level 05. **Proof of concept**: Demonstrate its use outside its original intended purpose/audience. 
 
