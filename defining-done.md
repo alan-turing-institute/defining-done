@@ -2,14 +2,23 @@
 
 > This document was produced as part of Accelerating AI in the Arts and Humanities (AAAH) produces outputs of professional quality for the research community. 
 > 
-> This means making it easier for your current and future research, accelerating the impact and legacy of the software, expanding communities of practice, and providing a confident codebase for future research. 
->
-> This framework highlights what a maximal 'definition of done' would look like for mutual success to deliver reproducible and credible code for all. 
->
-> It is expected that not all engagements will hit the maximum extents, but rather this is to be negotiated and shaped by the resources available.
-
+> This means making it easier for your current and future research, accelerating the impact and legacy of the software, expanding communities of practice, and providing a confident codebase for future research. This framework highlights what a maximal 'definition of done' would look like for mutual success to deliver reproducible and credible code for all. It is expected that not all engagements will hit the maximum extents, but rather this is to be negotiated and shaped by the resources available.
+> 
 
 >For each project within AAAH determine which "Level" in each of the following categories is a minimum aim for defining done:
+
+
+## Reach and Robustness
+
+Level 01. **Internal users**: Identify how users already use the tool and its current issues.
+
+Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility
+
+Level 03. **External users**: Identify how similar external users could use the tool and current barriers
+
+Level 04. **Generalise**: Identify how the tool could be made general and current barriers to that
+
+Level 05. **Proof of concept**: Demonstrate its use outside its original intended purpose/audience. 
 
 
 ## Functionality
@@ -40,20 +49,19 @@ Level 05. **Walkthrough**: Write walkthroughs/demos (also gifs or videos)
 
 ## Testing
 
-Level 01. **Fix Tests**: Running and trying tests that already exist, improving them
 
-Level 02. **Pseudo Tests**: Identifying where tests need to be added, writing "pseudo-tests"
+Level 01. **Continous Integration** Start the automated infrastructure
 
-Level 03. **Write Tests**: Writing unit tests in the code with clear outputs and show coverage
+Level 02. **Defining Positive/Negative Cases** Conversation about what are the expected outcomes/how the tool works
 
-Level 04. **Automate & Continuous Integration (CI)**:  Creating continuous integration tests with Github Actions
+Level 03. **Automated User Tests** End-to-end tests that check expected outcomes from above, black box
 
-Level 05. **End to End Tests**: Simulates real world use.
+Level 04. **Fine-grain Tests/Unit Tests** Focus on critical/pain points, remove brittleness, modularise and reuseable components 
+
+Level 05. **Error Reporting** Focus on negative cases, informative error communication for external collaboration
 
 ## Open Release
-> Assuming the tool CAN be open
-> 
-> Community and contribution
+
 
 Level 01. **Find barriers**: Identify minimum criteria that need to be solved before public release e.g. authorship, sensitivity, licensing, publicity, timings
 
@@ -70,11 +78,12 @@ Level 05. **Publisise**: Publish the repo with JOSS, and/or publicly present the
 
 Level 01. **Internal users**: Identify how users already use the tool and its current issues.
 
-Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility eg. [`dependabot`](https://github.com/dependabot/dependabot-core)
+Level 02. **Best practices**: Address minimum code best practices with view to robustness and accessibility
 
 Level 03. **External users**: Identify how similar external users could use the tool and current barriers
 
 Level 04. **Generalise**: Identify how the tool could be made general and current barriers to that
 
 Level 05. **Proof of concept**: Demonstrate its use outside its original intended purpose/audience. 
+
 
